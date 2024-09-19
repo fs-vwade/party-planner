@@ -1,0 +1,14 @@
+.
+├── css
+│   └── index.css
+├── html
+│   ├── footer.html
+│   └── header.html
+├── index.html
+├── js
+│   └── index.js
+├── pages
+│   └── home.html
+└── tree.txt
+
+5 directories, 7 files
