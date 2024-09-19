@@ -6,9 +6,12 @@
 │   └── header.html
 ├── index.html
 ├── js
-│   └── index.js
+│   ├── index.js
+│   └── types
+│       └── global.js
 ├── pages
 │   └── home.html
+├── subject.txt
 └── tree.txt
 
-5 directories, 7 files
+6 directories, 9 files
